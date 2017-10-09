@@ -1,0 +1,7 @@
+{
+  "name": "nordea-ynab",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Wilhelm Törnroos",
+  "license": "MIT"
+}
